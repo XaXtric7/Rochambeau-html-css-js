@@ -1,0 +1,87 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+h1 {
+  background-color: #081b31;
+  color: #fff;
+  height: 5rem;
+  line-height: 5rem;
+}
+
+.choice {
+  height: 165px;
+  width: 165px;
+  border-radius: 50%; /* circular boundary */
+  display: flex;
+  justify-content: center; /* boundary and the images match perfectly*/
+  align-items: center;
+  transition: transform 0.2s ease-in-out; /* Animation */
+}
+
+.choice:hover {
+  cursor: pointer;
+  background-color: #081b31;
+  transform: scale(1.1); /* Scale animation */
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  object-fit: cover; /* image correction */
+  border-radius: 50%; /* make images round */
+}
+
+.choices {
+  display: flex; /* images comes in the same line */
+  justify-content: center; /* horizontly in center */
+  align-items: center; /* vertically aligned */
+  gap: 3rem;
+  margin-top: 5rem;
+}
+
+.score-board {
+  display: flex;
+  justify-content: center; /* horizontly aligned */
+  align-items: center; /* veertically aligned */
+  font-size: 2rem;
+  margin-top: 3rem;
+  gap: 5rem;
+}
+
+#user-score,
+#comp-score {
+  font-size: 4rem;
+}
+
+.msg-container {
+  margin-top: 5rem;
+}
+
+#msg {
+  background-color: #081b31;
+  color: #fff;
+  font-size: 2rem;
+  display: inline; /* the bg color will only applied to the msg not the whole div*/
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+/* Reset Button */
+#reset-btn {
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  font-size: 1.5rem;
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+#reset-btn:hover {
+  background-color: darkred;
+}
