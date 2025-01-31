@@ -31,5 +31,5 @@ I created a simple **Rock Paper Scissors** game where you can play against the c
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-github-username/repository-name.git
+   git clone https://github.com/XaXtric7/Rochambeau-html-css-js.git
    ```
