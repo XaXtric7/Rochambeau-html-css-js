@@ -23,9 +23,9 @@ I created a simple **Rock Paper Scissors** game where you can play against the c
 - **CSS**: Styling and animations 🎨
 - **JavaScript**: Game logic and interactivity ⚡
 
-## 🔹 Live Demo
+## 🔹 In-game look
 
-[🔗 Play the Game](https://your-github-username.github.io/repository-name/)
+![Image](https://github.com/user-attachments/assets/4383d70e-65ca-44a6-8ec5-bcbe4aebd4ae)
 
 ## 🔹 How to Run Locally
 
