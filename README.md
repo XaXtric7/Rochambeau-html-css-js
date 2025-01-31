@@ -25,7 +25,7 @@ I created a simple **Rock Paper Scissors** game where you can play against the c
 
 ## 🔹 In-game look
 
-![Image](https://github.com/user-attachments/assets/4383d70e-65ca-44a6-8ec5-bcbe4aebd4ae)
+![Image](https://github.com/user-attachments/assets/1d1889e8-6e62-47da-8b50-75bec8d2b6dc)
 
 ## 🔹 How to Run Locally
 
